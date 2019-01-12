@@ -28,12 +28,10 @@
     "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.6",
-    "zone.js": "^0.8.19",
-    "bower": "0.6.x"
+    "zone.js": "^0.8.19"
+
   },
-"scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install"
-}
+
   "devDependencies": {
     "@angular/cli": "~1.7.0",
     "@angular/compiler-cli": "^5.2.0",
